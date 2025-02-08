@@ -2,7 +2,7 @@
 <p style="font-family: 'Calibri Light', sans-serif; font-size: 10pt;">Save pages to read later with notes, tags, and favicons.</p>
 
 <h2 style="font-family: Calibri, sans-serif; font-size: 12pt;">Privacy Policy for Read Later Extension</h2>
-
+ 
 <p style="font-family: 'Calibri Light', sans-serif; font-size: 10pt;"><strong>Effective Date:</strong> 02/08/2025</p>
 
 <h3 style="font-family: Calibri, sans-serif; font-size: 12pt;">1. Introduction</h3>
